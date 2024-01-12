@@ -1,4 +1,4 @@
 # INFRADASCD
 Este repositorio es sobre infraestructura de red que tiene el Servicio Civil Distrial
 
-En esta pagina se van a almacenar todos los datos relevantes entorno a infraestructura de red
+En esta pagina se van a almacenar todas actualizaciones y configuraciones de la pagina web de INFRADASCD
