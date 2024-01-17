@@ -23,7 +23,7 @@
         <a href="usuariosist.php" target="_self" class="boton-1">Añadir Usuario de la Plataforma</a>
         <a href="password.php" target="_self" class="boton-1">Añadir Contraseñas</a>
         <a href="consultapassword.php" target="_self" class="boton-1">Gestor de Contraseñas</a>
-        <a href="consultapassword.php" target="_self" class="boton-1">Nuevo Gestor</a>
+        <a href="consultapassword.php" target="_self" class="boton-1">INFRADASCD</a>
     </div>
     <?php // include "tabla.php"; //Imprime la tabla ?> 
 
