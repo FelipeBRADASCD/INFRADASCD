@@ -24,7 +24,7 @@
         <a href="password.php" target="_self" class="boton-1">Añadir Contraseñas</a>
         <a href="consultapassword.php" target="_self" class="boton-1">Gestor de Contraseñas</a>
         <a href="consultapassword.php" target="_self" class="boton-1">INFRADASCD</a>
-        <a href="consultapassword.php" target="_self" class="boton-1">INFRADASCD</a>
+        <a href="consultapassword.php" target="_self" class="boton-1">Prueba Enero</a>
     </div>
     <?php // include "tabla.php"; //Imprime la tabla ?> 
 
